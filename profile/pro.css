@@ -1,0 +1,38 @@
+.body {
+    font-family: 'roboto', 'sanserif'; 
+    height: fit-content;
+ }
+ .headre {
+     position: fixed;
+     top: 0px;
+     left: 0px;
+     width: 100%;
+ }
+ .img {
+     width: 80px;
+     height: 80px;
+     border-radius: 80px;
+ }
+ .txt {
+     color: aliceblue;
+ }
+ .para {
+     display: flex;
+     justify-content: center;
+ }
+ .textt {
+     text-align: justify;
+ }
+ .fimg {
+     height: 100%;
+     
+ }
+ .btn2 {
+     width: 350px;
+     background-color: black;
+     color: white;
+      display: flex;
+     align-content: center; 
+     margin-left: auto;
+     margin-right: auto;
+ }
